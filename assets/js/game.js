@@ -228,4 +228,4 @@ var fightOrSkip = function() {
   // start game when page loads
   startGame();
 
-//left off at 3.4.1 Introduction
+//left off at end of 3.5.5 with broken code
